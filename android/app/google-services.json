@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668841875802",
+    "project_id": "smarktask",
+    "storage_bucket": "smarktask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668841875802:android:157e2848742016afbebb63",
+        "android_client_info": {
+          "package_name": "com.smarttasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc2Y1fkx_ju3Pshl9jp46LR2EzZE7p03I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
